@@ -227,6 +227,16 @@
 </html>
 
 <script>
+    const currentDate = new Date();
+  const currentYear = currentDate.getFullYear();
+  const currentMonth = currentDate.getMonth() + 1; // getMonth() trả về từ 0-11, nên cộng thêm 1 để được 1-12
+  // Đặt giá trị mặc định cho tháng và năm
+  document.getElementById('yearInput').value = currentYear;
+  document.getElementById('monthInput').value = currentMonth;
+   // Đặt giá trị mặc định cho tháng và năm
+   document.getElementById('mobileYearInput').value = currentYear;
+  document.getElementById('mobileMonthInput').value = currentMonth;
+  
     let lastScrollY = window.scrollY;
     const footer = document.getElementById('mobile-footer');
 
