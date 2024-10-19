@@ -455,52 +455,53 @@ button:hover {
         font-size: 14px; /* Giảm font-size để vừa với màn hình nhỏ */
     }
   .mobile-footer {
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-        background-color: rgba(255, 255, 255, 0); /* Nền trong suốt */
-        padding: 10px 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        transition: transform 0.3s ease; /* Hiệu ứng chuyển động mượt mà */
-        z-index: 9999; /* Đảm bảo footer luôn nằm trên cùng */
-    }
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    width: 100%;
+    background-color: rgb(84, 123, 251); /* Nền màu xanh */
+    padding: 0px 0; /* Giảm padding để chiều cao nhỏ hơn */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển động mượt mà */
+    z-index: 9999; /* Đảm bảo footer luôn nằm trên cùng */
+}
 
-    .mobile-footer.hidden {
-        transform: translateY(100%); /* Ẩn footer ra ngoài màn hình */
-    }
+.mobile-footer.hidden {
+    transform: translateY(100%); /* Ẩn footer ra ngoài màn hình */
+}
 
-    .mobile-controls {
-        display: flex;
-        justify-content: space-around;
-        width: 90%;
-        padding: 10px;
-    }
+.mobile-controls {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    padding: 0; /* Loại bỏ padding không cần thiết */
+}
 
-    .icon-button {
-        background-color: transparent; /* Nền trong suốt */
-        color: white;
-        border: none;
-        padding: 10px;
-        font-size: 24px;
-        border-radius: 50%;
-        cursor: pointer;
-        flex-grow: 1;
-        margin: 0 10px;
-        text-align: center;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+.icon-button {
+    background-color: transparent; /* Nền trong suốt */
+    color: white;
+    border: none;
+    padding: 0; /* Giảm padding của nút */
+    font-size: 18px; /* Kích thước biểu tượng nhỏ hơn */
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 0 5px; /* Giảm khoảng cách giữa các nút */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-    .icon-button:hover {
-        background-color: rgba(255, 255, 255, 0.1); /* Hiệu ứng hover nhẹ */
-    }
+.icon-button:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Hiệu ứng hover nhẹ */
+}
 
-    .icon-button:active {
-        background-color: rgba(255, 255, 255, 0.2); /* Hiệu ứng khi nhấn */
-    }
+.icon-button:active {
+    background-color: rgba(255, 255, 255, 0.2); /* Hiệu ứng khi nhấn */
+}
+
 
 }
 
