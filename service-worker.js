@@ -23,7 +23,7 @@ self.addEventListener('install', event => {
         './js/secondfeast.js',
         './js/calculateOptionbibleReads.js',
         './js/calculateEucharisticAdoration.js',
-        './CalendarGPDalat.html',
+        './CalendarGxChilang.html',
         './style.css',
         './01.webp',
            './01.webp',
