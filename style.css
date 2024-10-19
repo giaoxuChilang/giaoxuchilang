@@ -454,54 +454,53 @@ button:hover {
         margin-right: 0;
         font-size: 14px; /* Giảm font-size để vừa với màn hình nhỏ */
     }
-       .mobile-footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: rgba(43, 111, 246, 0); /* Nền trong suốt */
-    padding: 5px 0; /* Giảm padding để footer nhỏ gọn hơn */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: transform 0.3s ease; /* Hiệu ứng chuyển động khi ẩn/hiện */
-    box-shadow: none; /* Không có đổ bóng */
-}
+  .mobile-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0); /* Nền trong suốt */
+        padding: 10px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: transform 0.3s ease; /* Hiệu ứng chuyển động mượt mà */
+        z-index: 9999; /* Đảm bảo footer luôn nằm trên cùng */
+    }
 
-.mobile-footer.hidden {
-    transform: translateY(100%); /* Ẩn footer khi cuộn xuống */
-}
+    .mobile-footer.hidden {
+        transform: translateY(100%); /* Ẩn footer ra ngoài màn hình */
+    }
 
-.mobile-controls {
-    display: flex;
-    justify-content: space-around; /* Chia đều khoảng cách giữa các nút */
-    width: 90%; /* Đảm bảo các nút không dàn quá sát viền */
-    padding: 15px; /* Tạo khoảng cách xung quanh */
-}
+    .mobile-controls {
+        display: flex;
+        justify-content: space-around;
+        width: 90%;
+        padding: 10px;
+    }
 
-.icon-button {
-    background-color: transparent; /* Nền trong suốt cho nút */
-    color: white;
-    border: none;
-    padding: 10px;
-    font-size: 24px; /* Tăng kích thước biểu tượng */
-    border-radius: 50%; /* Nút tròn */
-    cursor: pointer;
-    flex-grow: 1; /* Đảm bảo các nút có cùng kích thước */
-    margin: 0 10px; /* Khoảng cách giữa các nút */
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: background-color 0.2s ease; /* Hiệu ứng chuyển màu nền khi hover */
-}
+    .icon-button {
+        background-color: transparent; /* Nền trong suốt */
+        color: white;
+        border: none;
+        padding: 10px;
+        font-size: 24px;
+        border-radius: 50%;
+        cursor: pointer;
+        flex-grow: 1;
+        margin: 0 10px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
-.icon-button:hover {
-    background-color: rgba(255, 255, 255, 0.1); /* Hiệu ứng hover nhẹ nhàng */
-}
+    .icon-button:hover {
+        background-color: rgba(255, 255, 255, 0.1); /* Hiệu ứng hover nhẹ */
+    }
 
-.icon-button:active {
-    background-color: rgba(255, 255, 255, 0.2); /* Màu nền khi nhấn nút */
-}
+    .icon-button:active {
+        background-color: rgba(255, 255, 255, 0.2); /* Hiệu ứng khi nhấn */
+    }
 
 }
 
