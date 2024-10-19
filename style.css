@@ -481,7 +481,7 @@ button:hover {
 
 .icon-button {
     background-color: transparent; /* Nền trong suốt */
-    color: white;
+    color:  rgb(219, 135, 0);
     border: none;
     padding: 0; /* Giảm padding của nút */
     font-size: 25px; /* Kích thước biểu tượng nhỏ hơn */
