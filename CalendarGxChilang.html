@@ -115,13 +115,12 @@
   
 
 <!-- Chọn ngày, tuần và tháng vủa mobi -->
-<footer class="mobile-footer">
+<footer id="mobile-footer" class="mobile-footer">
     <div class="controls-container">
-        <!-- Biểu tượng cho điện thoại -->
         <div class="mobile-controls">
-            <button class="icon-button" onclick="toggleDatePicker()">Ngày 📅</button> <!-- Biểu tượng chọn ngày -->
-            <button class="icon-button" onclick="toggleWeekPicker()">Tuần 🧭</button> <!-- Biểu tượng chọn tuần -->
-            <button class="icon-button" onclick="toggleMonthPicker()">Tháng 🗓</button> <!-- Biểu tượng chọn tháng/năm -->
+            <button class="icon-button" onclick="toggleDatePicker()">📅</button>
+            <button class="icon-button" onclick="toggleWeekPicker()">🧭</button>
+            <button class="icon-button" onclick="toggleMonthPicker()">🗓</button>
         </div>
     </div>
 </footer>
@@ -226,18 +225,18 @@
 </html>
 
 <script>
-      let lastScrollY = window.scrollY;
+    let lastScrollY = window.scrollY;
     const footer = document.getElementById('mobile-footer');
 
     window.addEventListener('scroll', () => {
-        if (window.scrollY > lastScrollY) {
-            // Nếu cuộn xuống, ẩn footer
+        if (window.scrollY > lastScrollY && window.scrollY > 50) {
+            // Nếu cuộn xuống và cuộn quá 50px, ẩn footer
             footer.classList.add('hidden');
-        } else {
+        } else if (window.scrollY < lastScrollY) {
             // Nếu cuộn lên, hiện footer
             footer.classList.remove('hidden');
         }
-        lastScrollY = window.scrollY;
+        lastScrollY = window.scrollY; // Cập nhật vị trí cuộn
     });
     if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
