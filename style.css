@@ -446,13 +446,13 @@ button:hover {
     }
 
     .weekday {
-        margin-left: 0;
-        font-size: 14px; /* Giảm font-size để vừa với màn hình nhỏ */
+        margin-left: 10;
+        font-size: 20px; /* Giảm font-size để vừa với màn hình nhỏ */
     }
 
     .lunar-date {
-        margin-right: 0;
-        font-size: 14px; /* Giảm font-size để vừa với màn hình nhỏ */
+        margin-right: 10;
+        font-size: 20px; /* Giảm font-size để vừa với màn hình nhỏ */
     }
   .mobile-footer {
     position: fixed;
@@ -484,10 +484,10 @@ button:hover {
     color: white;
     border: none;
     padding: 0; /* Giảm padding của nút */
-    font-size: 18px; /* Kích thước biểu tượng nhỏ hơn */
+    font-size: 24px; /* Kích thước biểu tượng nhỏ hơn */
     border-radius: 50%;
     cursor: pointer;
-    margin: 0 5px; /* Giảm khoảng cách giữa các nút */
+    margin: 0 20px; /* Giảm khoảng cách giữa các nút */
     text-align: center;
     display: flex;
     justify-content: center;
