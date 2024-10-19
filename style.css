@@ -454,5 +454,37 @@ button:hover {
         margin-right: 0;
         font-size: 14px; /* Giảm font-size để vừa với màn hình nhỏ */
     }
+        .mobile-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: #f8f9fa;
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .mobile-controls {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .icon-button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .icon-button:hover {
+        background-color: #0056b3;
+    }
+
+    .icon-button:active {
+        background-color: #004085;
+    }
 }
 
