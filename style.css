@@ -446,13 +446,13 @@ button:hover {
     }
 
     .weekday {
-        margin-left: 20;
-        font-size: 20px; /* Giảm font-size để vừa với màn hình nhỏ */
+        margin-left: 5;
+        font-size: 25px; /* Giảm font-size để vừa với màn hình nhỏ */
     }
 
     .lunar-date {
-        margin-right: 20;
-        font-size: 30px; /* Giảm font-size để vừa với màn hình nhỏ */
+        margin-right: 5;
+        font-size: 20px; /* Giảm font-size để vừa với màn hình nhỏ */
     }
   .mobile-footer {
     position: fixed;
