@@ -226,6 +226,19 @@
 </html>
 
 <script>
+      let lastScrollY = window.scrollY;
+    const footer = document.getElementById('mobile-footer');
+
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > lastScrollY) {
+            // Nếu cuộn xuống, ẩn footer
+            footer.classList.add('hidden');
+        } else {
+            // Nếu cuộn lên, hiện footer
+            footer.classList.remove('hidden');
+        }
+        lastScrollY = window.scrollY;
+    });
     if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
     navigator.serviceWorker.register('./service-worker.js')
