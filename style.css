@@ -487,7 +487,7 @@ button:hover {
     font-size: 25px; /* Kích thước biểu tượng nhỏ hơn */
     border-radius: 50%;
     cursor: pointer;
-    margin: 0 5px; /* Giảm khoảng cách giữa các nút */
+    margin: 0 10px; /* Giảm khoảng cách giữa các nút */
     text-align: center;
     display: flex;
     justify-content: center;
