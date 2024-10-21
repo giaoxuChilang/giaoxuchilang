@@ -198,6 +198,6 @@ window.celebrations = [
         { date: '26/12', type: 'F', feast: 'THÁNH STÊPHANÔ, TỬ ĐẠO TIÊN KHỞI.', chasuble: 'Đ' },
         { date: '27/12', type: 'F', feast: 'THÁNH GIOAN, TÔNG ĐỒ. TÁC GIẢ TIN MỪNG.', chasuble: 'Đ' },
         { date: '28/12', type: 'F', feast: 'CÁC THÁNH ANH HÀI TỬ ĐẠO.', chasuble: 'Đ' },
-        { date: '31/12', type: 'M', feast: 'Thánh Sylvestro, giáo hoàng.', chasuble: 'Tr' },
+        { date: '31/12', type: 'M', feast: 'Thánh Sylvestro, giáo hoàng.'},
     ];
 
