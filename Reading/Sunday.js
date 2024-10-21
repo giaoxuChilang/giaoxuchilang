@@ -536,7 +536,7 @@
       },
       "secondReading": {
         "excerpt": "Cl 3, 12-21",
-        "info": "\"Về đời sống gia đình trong Chúa\".",
+        "info": "Về đời sống gia đình trong Chúa.",
         "title": "Trích thư Thánh Phaolô Tông đồ gửi tín hữu Côlôxê.",
         "content": "Anh em thân mến, như những người được chọn của Thiên Chúa, những người thánh thiện và được yêu thương, anh em hãy mặc lấy những tâm tình từ bi, nhân hậu, khiêm cung, ôn hoà, nhẫn nại, chịu đựng lẫn nhau, và hãy tha thứ cho nhau nếu người này có chuyện phải oán trách người kia. Như Chúa đã tha thứ cho anh em, anh em cũng hãy tha thứ cho nhau. Và trên hết mọi sự, anh em hãy có đức yêu thương, đó là dây ràng buộc điều toàn thiện. Nguyện cho bình an của Chúa Kitô làm chủ trong lòng anh em, sự bình an mà anh em đã được kêu gọi tới để làm nên một thân thể. Anh em hãy cảm tạ Thiên Chúa. Nguyện cho lời Chúa Kitô cư ngụ dồi dào trong anh em. Với tất cả sự khôn ngoan, anh em hãy học hỏi và nhủ bảo lẫn nhau. Hãy dùng những bài thánh vịnh, thánh thi và thánh ca của Thần khí, cùng với lòng tri ân, để hát mừng Thiên Chúa trong lòng anh em. Và tất cả những gì anh em làm, trong lời nói cũng như trong hành động, tất cả mọi chuyện, anh em hãy làm vì danh Chúa Giêsu Kitô, nhờ Người mà tạ ơn Thiên Chúa Cha.\rHỡi các bà vợ, hãy phục tùng chồng trong Chúa cho phải phép. Hỡi những người chồng, hãy yêu thương vợ mình, đừng đay nghiến nó. Hỡi những người con, hãy vâng lời cha mẹ trong mọi sự, vì đó là đẹp lòng Chúa. Hỡi những người cha, đừng nổi cơn phẫn nộ với con cái, kẻo chúng nên nhát đảm sợ sệt.",
         "end": "Ðó là lời Chúa"
