@@ -832,7 +832,7 @@ window.OptionsaintReadings = {
         "end": "Ðó là lời Chúa"
       }
     },
-  "81305": {
+   "81305": {
     "firstReading": {
       "excerpt": "Is 61, 9-11",
       "info": "“Tôi hớn hở vui mừng trong Chúa”.",
@@ -868,5 +868,65 @@ window.OptionsaintReadings = {
       "content": "Khi ấy, Chúa Giêsu đang giảng cho dân chúng, thì từ giữa đám dân chúng, có một phụ nữ cất tiếng nói rằng: “Phúc cho dạ đã cưu mang Thầy và vú đã cho Thầy bú!” Nhưng Người phán rằng: “Những ai nghe và giữ lời Thiên Chúa thì có phúc hơn”.",
       "end": "Ðó là lời Chúa"
     }
+  },
+  "81102": {
+    "firstReading": {
+      "excerpt": "Is 66,10-14a (S.NL: 436)",
+      "info": "“Đây Ta khiến sông bình an chảy vào nó”.",
+      "title": "Trích sách tiên tri Isaia.",
+      "content": "Các ngươi hãy vui mừng với Giêrusalem và hết thảy những ai yêu quý nó, hãy nhảy mừng vì nó, Hỡi các ngươi là những kẻ than khóc nó, hãy hân hoan vui mừng với nó, để các ngươi bú sữa no nê nơi vú an ủi của nó, để các ngươi sung sướng bú đầy sữa vinh quang của nó. Vì chưng Chúa phán thế này: “Ta sẽ làm cho sự bình an chảy đến nó như con sông và vinh quang chư dân tràn đến như thác lũ, các ngươi sẽ được bú sữa, được ẵm vào lòng và được nâng niu trên đầu gối.\r Ta sẽ vỗ về các người như người mẹ nâng niu con, và tại Giêrusalem, các ngươi sẽ được an ủi. Các ngươi sẽ xem thấy, lòng các ngươi sẽ hân hoan, và các ngươi sẽ nẩy nở như hoa cỏ, và tôi tớ Chúa sẽ nhìn biết bàn tay của Chúa”.",
+      "end": "Ðó là lời Chúa"
+    },
+    "psalms": {
+      "excerpt": "1Sm 2, 1.4-5.6-7.8abcd",
+      "response": "Đáp: Tâm hồn tôi nhảy mừng trong Chúa, Ðấng Cứu độ tôi (c. 1a).",
+      "verses": [
+        "Xướng: Tâm hồn tôi nhảy mừng trong Chúa, và sức mạnh tôi được gia tăng trong Thiên Chúa tôi; miệng tôi mở rộng ra trước quân thù, vì tôi reo mừng việc Chúa cứu độ tôi.",
+        "Xướng: Chiếc cung những người chiến sĩ đã bị bẻ gãy, và người yếu đuối được mạnh khoẻ thêm. Những kẻ no nê phải làm thuê độ nhật, và những người đói khát khỏi phải làm thuê; người son sẻ thì sinh năm đẻ bảy, còn kẻ đông con nay phải héo tàn.",
+        "Xướng: Chúa làm cho chết và Chúa làm cho sống, Chúa đày xuống Âm phủ và Chúa dẫn ra. Chúa làm cho nghèo và làm cho giàu có, Chúa hạ xuống thấp và Chúa nâng lên cao.",   
+        "Xướng: Từ nơi cát bụi, Chúa nâng người yếu đuối; từ chỗ phân nhơ, Chúa nhắc kẻ khó nghèo, để cho họ ngồi chung với các vương giả, và cho họ dự phần ngôi báu vinh quang."
+      ]
+    },
+     "alleluia": {
+      "verse": " ",
+      "content": "Alleluia, alleluia! - Kính chào Đức Maria đầy ơn phước, Thiên Chúa ở cùng Trinh nữ, Trinh nữ được chúc phúc giữa các người phụ nữ. - Alleluia."
+    },
+    "gospel": {
+      "excerpt": "Ga 2,1-11",
+      "info": "“Có mẹ của Chúa Giêsu ở đó”.",
+      "title": "Tin Mừng Chúa Giêsu Kitô theo Thánh Gioan.",
+      "content": "Khi ấy, có tiệc cưới tại Cana xứ Galilêa. Và có mẹ của Chúa Giêsu ở đó. Chúa Giêsu và các môn đệ Người cũng được mời dự tiệc cưới. Và bỗng thiếu rượu, mẹ Chúa Giêsu nói với Người: “Họ hết rượu rồi”. Chúa Giêsu nói với mẹ: “Hỡi bà, tôi với bà có can chi đâu, giờ tôi chưa đến”. Mẹ Người nói với những người giúp việc: “Hễ Người bảo gì thì phải làm theo”. Ở đó có sáu chum đá, dùng vào việc thanh tẩy của người Do Thái, mỗi chum đựng được hai hoặc ba thùng nước. Chúa Giêsu bảo họ: “Hãy đổ nước đầy các chum. Họ đổ đầy tới miệng. Và Chúa Giêsu bảo họ: “Bây giờ hãy múc đem cho người quản tiệc!” Và họ đem đi. Khi người quản tiệc nếm thử nước đã hóa thành rượu, ông không biết tự đâu ra, nhưng những người giúp việc đã múc nước thì biết, ông mới gọi tân lang mà nói: “Ai cũng đem rượu ngon ra trước, khi khách ngà ngà thì mới đem rượu xoàng hơn. Còn ông, ông lại giữ rượu ngon tới giờ này”. Chúa Giêsu đã làm phép lạ đầu tiên này tại Cana xứ Galilê, và đã tỏ vinh quang Người và các môn đệ Người tin Người.",
+      "end": "Ðó là lời Chúa"
+    }
+  },
+  "82708": {
+    "firstReading": {
+      "excerpt": "Hc 26,1 - 4.16-21",
+      "info": "“Như mặt trời mọc lên thế nào thì người vợ hiền lành cũng sẽ là vật trang trí cho gia đình như vậy”",
+      "title": "Bài trích sách Huấn Ca",
+      "content": "Phúc cho người chồng có được một người vợ hiền lành, vì sẽ được sống gấp đôi. Người vợ mạnh khỏe là niềm hân hoan của người chồng và sẽ sống trong yên hàn; Một người vợ hiền lành là gia sản quý giá, nàng sẽ được ghi vào số những kẻ kính sợ Thiên Chúa, sẽ mang lại cho người chồng những công đức, luôn luôn tỏ lòng tốt đối với người giàu có và kẻ khó nghèo, lúc nào nét mặt cũng hân hoan. Người vợ đức hạnh sẽ làm cho người chồng được sung sướng và được khoái trá tận xương tủy.\r Một phụ nữ đức hạnh là của Chúa ban cho. Một phụ nữ cẩn ngôn và có giáo dục là một bảo vật vô giá. Ơn lại thêm ơn, khi có một người vợ thánh thiện và danh thơm tiếng tốt. Vì một tâm hồn trong sạch thật là vô giá. Như mặt trời mọc lên chiếu sáng sự cao cả của Thiên Chúa thế nào, thì người vợ hiền lành cũng sẽ vật trang trí cho tư thất mình như vậy.",
+      "end": "Ðó là lời Chúa"
+    },
+    "psalms": {
+      "excerpt": "Tv 127, 1-2. 3. 4-5",
+      "response": "Đáp: Phúc cho ai biết kính sợ Chúa.",
+      "verses": [
+        "Xướng: Phúc cho ai biết kính sợ Chúa, và bước đi trong đường lối Người. Ngươi sẽ hưởng công khó của tay ngươi, ngươi có phúc và sẽ được may mắn.",
+        "Xướng: Vợ ngươi như cây nho sai trái, trong nội cung gia thất nhà ngươi. Con cái ngươi như chồi non cây dầu ở chung quanh bàn ăn của ngươi.",
+        "Xướng: Đó là ơn phúc lành cho người biết kính sợ Chúa, từ Sion xin Chúa chúc lành cho ngươi. Chúc ngươi thấy Giêrusalem thịnh đạt suốt mọi ngày trong đời sống của ngươi."
+      ]
+    },
+     "alleluia": {
+      "verse": "Mt 11,28",
+      "content": "Alleluia, alleluia! - Chúa phán: “Tất cả những ai khó nhọc và gánh nặng, hãy đến cùng Ta, Ta sẽ nâng đỡ bổ sức cho các ngươi”. - Alleluia."
+    },
+    "gospel": {
+      "excerpt": "Lc 7, 11 – 17",
+      "info": "Chúa Giê-su trao anh ta cho bà mẹ.",
+      "title": "Tin Mừng Chúa Giêsu Kitô theo Thánh Luca.",
+      "content": "Sau đó, Chúa Giê-su đi đến thành kia gọi là Na-im, có các môn đệ và một đám rất đông cùng đi với Người. Khi Chúa Giê-su đến gần cửa thành, thì đang lúc người ta khiêng một người chết đi chôn, người này là con trai duy nhất, và mẹ anh ta lại là một bà goá. Có một đám đông trong thành cùng đi với bà.\r Trông thấy bà, Chúa chạnh lòng thương và nói: “Bà đừng khóc nữa!”. Rồi Người lại gần, sờ vào quan tài. Các người khiêng dừng lại. \r Chúa Giê-su nói: “Này người thanh niên, tôi bảo anh: hãy trỗi dậy !” . Người chết liền ngồi lên và bắt đầu nói. Chúa Giê-su trao anh ta cho bà mẹ. Mọi người đều kinh sợ và tôn vinh Thiên Chúa rằng: “Một vị ngôn sứ vĩ đại đã xuất hiện giữa chúng ta, và Thiên Chúa đã viếng thăm dân Người”. \r Lời này về Chúa Giê-su được loan truyền khắp cả miền Giu-đê và vùng lân cận.",
+      "end": "Ðó là lời Chúa"
+    }
   }
+  
 };
