@@ -186,6 +186,7 @@ function addFeastend1(name, date) {
             ["70911", "CUNG HIẾN THÁNH ĐƯỜNG LATÊRANÔ. Lễ kính."],
             ["70202", "DÂNG CHÚA GIÊSU TRONG ĐỀN THÁNH (Lễ Nến). Lễ kính."],
             ["71312", "KỶ NIỆM CUNG HIẾN THÁNH ĐƯỜNG GIÁO XỨ. Lễ trọng."],
+	    ["71409", "SUY TÔN THÁNH GIÁ. Lễ kính."],
         ]);
 
    
