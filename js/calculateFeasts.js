@@ -178,7 +178,7 @@ function addFeastend1(name, date) {
             ["71903", "THÁNH GIUSE BẠN TRĂM NĂM ĐỨC TRINH NỮ MARIA. Bổn mạng Hội Thánh hoàn vũ và Hội Thánh Việt Nam. Lễ trọng. Lễ cầu cho giáo dân (Lễ họ)."],
             ["72411", "CÁC THÁNH TỬ ĐẠO VIỆT NAM. Bổn mạng Hội Thánh Việt Nam. Lễ Trọng."],
             ["72503", "LỄ TRUYỀN TIN. Lễ trọng."],
-            ["72406", "SINH NHẬT THÁNH GIOAN TẨY GIẢ. Lễ Kính."],
+            ["72406", "SINH NHẬT THÁNH GIOAN TẨY GIẢ. Lễ trọng."],
             ["72906", "THÁNH PHÊRÔ VÀ THÁNH PHAOLÔ TÔNG ĐỒ. Lễ trọng. Lễ cầu cho giáo dân (Lễ họ)."],
             ["5450", "CHÚA HIỂN DUNG. Lễ kính."],
             ["71508", "ĐỨC MẸ LÊN TRỜI. Lễ trọng. Lễ cầu cho giáo dân (Lễ họ)."],
