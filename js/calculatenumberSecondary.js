@@ -105,7 +105,7 @@ const getCodeForDate = (function (global) {
     function updateCodeSecondaryNumbersForMultipleDates(year, codeSecondaryNumbers) {
         const datesToUpdate = [
             '05-01', '10-02', '06-11', '09-15', '10-17', '11-21',
-            '08-22', '01-26', '07-26', '07-29', '08-29',  '05-06',  '05-13',
+            '08-22', '01-26', '07-26', '07-29', '08-29',  '05-06',  '05-13',  '02-11', '08-27',
         ];
 
         const easterDate = getEasterDate(year);
