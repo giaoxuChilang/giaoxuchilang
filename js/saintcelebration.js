@@ -119,7 +119,7 @@ window.celebrations = [
         { date: '19/08', type: 'O', feast: 'Thánh Gioan Êuđê, linh mục (Tr).' },
         { date: '20/08', type: 'M', feast: 'Thánh Bêrnarđô, viện phụ, tiến sĩ Hội Thánh.', chasuble: 'Tr' },
         { date: '21/08', type: 'M', feast: 'Thánh Piô X, giáo hoàng.', chasuble: 'Tr' },
-        { date: '22/08', type: 'M', feast: 'Đức Maria Nữ Vương. Lễ nhớ.', chasuble: 'Tr' },
+        { date: '22/08', type: 'M', feast: 'Đức Maria Nữ Vương.', chasuble: 'Tr' },
         { date: '23/08', type: 'O', feast: 'Thánh Rôsa Lima, trinh nữ (Tr).' },
         { date: '24/08', type: 'F', feast: 'THÁNH BARTHÔLÔMÊO, TÔNG ĐỒ.', chasuble: 'Đ' },
         { date: '25/08', type: 'O', feast: 'Thánh Luy (Tr). Thánh Giuse Calasanz, linh mục (Tr).' },
