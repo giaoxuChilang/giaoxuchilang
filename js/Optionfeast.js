@@ -63,6 +63,7 @@
         OptionFeasts.push({ name: 'Bổn mạng Giáo khu La Vang.', date: new Date(year, 7, 15) });
         OptionFeasts.push({ name: 'Tước hiệu Đài Đức Mẹ. Sau lễ đọc kinh Đài Đức Mẹ', date: new Date(year, 7, 22) });
         OptionFeasts.push({ name: 'Bổn mạng Giới Hiền Mẫu.', date: new Date(year, 7, 27) });
+        OptionFeasts.push({ name: 'Bổn mạng Giới Trẻ.', date: new Date(year, 7, 28) });        
         OptionFeasts.push({ name: 'Ngày Giỗ Cha Cố Matthuê Đinh Viết Hoàng (+2023).', date: new Date(year, 8, 26) });
         OptionFeasts.push({ name: 'Ngày Giỗ Cha Cố Giuse Phạm Quang Tuyến (+1998).', date: new Date(year, 10, 21) });
         OptionFeasts.push({ name: '(Không cử hành lễ Thánh Lucia trinh nữ, tử đạo.).', date: new Date(year, 11, 13) });
