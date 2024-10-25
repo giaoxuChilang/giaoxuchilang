@@ -25,7 +25,7 @@
         secondFeasts.push({ name: 'Chiều: LỄ VỌNG CHÚA THÁNH THẦN HIỆN XUỐNG (Đ).', date: new Date(easterDate.getTime() + 48 * 24 * 60 * 60 * 1000) });
         secondFeasts.push({ name: 'Chiều: LỄ VỌNG THÁNH PHÊRÔ VÀ PHAOLÔ TỒNG ĐỒ (Đ).', date: new Date(year, 5, 28) });
         secondFeasts.push({ name: 'Chiều: LỄ VỌNG ĐỨC MẸ HỒN XÁC LÊN TRỜI (Tr)', date: new Date(year, 7, 14) });
-        secondFeasts.push({ name: 'Chiều: LỄ VỌNG GIÁNG SINH', date: new Date(year, 11, 24) });
+        secondFeasts.push({ name: 'Tối 19 giờ Canh thức + Lễ Đêm Giáng Sinh.', date: new Date(year, 11, 24) });
         secondFeasts.push({ name: 'Được kính trọng thể lễ Đức Mẹ Mân Côi (Tr).', date: new Date(BfirstSunday.getTime()) });
         secondFeasts.push({ name: 'Chúa nhật Truyền giáo (Tr). Được cử hành thánh lễ cầu nguyện cho việc rao giảng Tin mừng cho các dân tộc.', date: new Date(BfirstSunday.getTime() + 14 * 24 * 60 * 60 * 1000) });
 
