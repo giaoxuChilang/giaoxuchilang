@@ -600,37 +600,38 @@ window.OptionsaintReadings = {
   },
   "82412": {
     "firstReading": {
-      "excerpt": "Is 62, 1-5",
-      "info": "“Ngươi đẹp lòng Chúa”.",
+      "excerpt": "Is 9, 2-4. 6-7",
+      "info": "“Chúa ban Con của Người cho chúng ta”.",
       "title": "Trích sách Tiên tri Isaia.",
-      "content": "Vì Sion, tôi sẽ không im tiếng, và vì Giêrusalem, tôi sẽ không nghỉ ngơi cho đến khi Ðấng công chính xuất hiện như ánh sáng, Ðấng Cứu độ Sion đến như ngọn đuốc sáng ngời.\rMọi dân tộc sẽ thấy Người là Ðấng công chính của ngươi, và mọi đế vương sẽ thấy vinh hiển Người. Chính Chúa sẽ đặt cho ngươi một tên mới. Ngươi sẽ là triều thiên vinh hiển trong tay Chúa, và vương miện quyền bính trong tay Thiên Chúa ngươi. ngươi sẽ không còn gọi là kẻ bị ruồng bỏ, và đất ngươi sẽ không còn gọi là chốn hoang vu. Ngươi sẽ được gọi là “kẻ Ta ưa thích”, và đất ngươi sẽ được gọi là đất có dân cư, vì ngươi đẹp lòng Thiên Chúa và đất ngươi sẽ có dân cư.\r(Như) thanh niên sẽ ở cùng trinh nữ, con cái ngươi sẽ ở trong ngươi; (như) người chồng sẽ vui mừng vì vợ, Thiên Chúa ngươi cũng sẽ vui mừng vì ngươi.",
+      "content": " Dân tộc bước đi trong u tối, đã nhìn thấy sự sáng chứa chan. Sự sáng đã bừng lên trên những người cư ngụ miền thâm u sự chết. Chúa đã làm cho dân tộc nên vĩ đại, há chẳng làm vĩ đại niềm vui? Họ sẽ vui mừng trước nhan Chúa, như thiên hạ mừng vui trong mùa gặt lúa, như những người thắng trận hân hoan vì chiến lợi phẩm, khi đem của chiếm được về phân chia. Vì cái ách nặng nề trên người nó, cái gông nằm trên vai nó, cái vương trượng quyền của kẻ áp bức. Chúa sẽ nghiền nát ra, như trong ngày chiến thắng Mađian. [Bởi lẽ mọi chiếc giày đi lộp cộp của kẻ chiến thắng, mọi chiếc áo nhuộm thắm máu đào sẽ bị đốt đi và trở nên mồi nuôi lửa.] \r Bởi lẽ một hài nhi đã sinh ra cho chúng ta, và một người con đã được ban tặng chúng ta. Người đã gánh nhận vương quyền trên vai, và thiên hạ sẽ gọi tên Người là “Cố Vấn Kỳ Diệu, Thiên Chúa Huy Hoàng, Người Cha Muôn Thuở, Ông Vua Thái Bình”. Người sẽ mở rộng vương quyền, và cảnh thái bình sẽ vô tận; Người sẽ ngự trên ngai vàng của Ðavít, và trong vương quốc Người, để củng cố và tăng cường, trong sự công minh chính trực, ngay tự bây giờ và cho đến muôn đời. Lòng ghen yêu của Chúa thiên binh sẽ thực thi điều đó.",
       "end": "Ðó là lời Chúa"
     },
     "psalms": {
-      "excerpt": "Tv 88, 4-5. 16-17. 27 và 29",
-      "response": "Ðáp: Lạy Chúa, con sẽ ca ngợi tình thương của Chúa tới muôn đời",
+      "excerpt": "Tv 95, 1-2a. 2b-3. 11-12. 13",
+      "response": "Ðáp: Hôm nay Ðấng Cứu Thế đã giáng sinh cho chúng ta, Người là Ðức Kitô, Chúa chúng ta",
       "verses": [
-        "Xướng: Ta đã ký minh ước cùng người Ta tuyển lựa, Ta đã thề cùng Ðavít là tôi tớ của Ta rằng: “Cho tới muôn đời Ta bảo tồn miêu duệ của ngươi, và Ta thiết lập ngai báu ngươi qua muôn thế hệ”.",
-        "Xướng: Phúc thay dân tộc biết hân hoan, lạy Chúa, họ tiến thân trong ánh sáng nhan Ngài. Họ luôn luôn mừng rỡ vì danh Chúa, và tự hào vì đức công minh Ngài.",
-        "Xướng: Chính người sẽ thưa cùng Ta: “Chúa là Cha con, là Thiên Chúa và Ðá Tảng cứu độ của con”. Ðời đời Ta sẽ dành cho người lòng sủng ái, và lời ước Ta ký với người sẽ được mãi mãi duy trì."
+        "Xướng: Hãy ca mừng Thiên Chúa bài ca mới, hãy ca mừng Thiên Chúa đi, toàn thể địa cầu. Hãy ca mừng Thiên Chúa, hãy chúc tụng danh Người.",
+        "Xướng: Ngày ngày hãy loan truyền ơn Người cứu độ. Hãy tường thuật vinh quang Chúa giữa chư dân, và phép lạ Người ở nơi vạn quốc.",
+        "Xướng: Trời xanh hãy vui mừng và địa cầu hãy hân hoan. Biển khơi và muôn vật trong đó hãy reo lên. Ðồng nội và muôn loài trong đó hãy mừng vui. Các rừng cây hãy vui tươi hớn hở.",
+         "Xướng: Trước nhan Thiên Chúa: vì Người ngự tới, vì Người ngự tới cai quản địa cầu. Người sẽ cai quản địa cầu cách công minh và chư dân cách chân thành."
       ]
     },
     "secondReading": {
-      "excerpt": "Cv 13, 16-17. 22-25",
-      "info": "“Thánh Phaolô làm chứng về Chúa Kitô, con vua Ðavít”.",
-      "title": "Trích sách Tông đồ Công vụ.",
-      "content": "Phaolô đến Antiôkia thuộc Pisiđia, vào hội đường, đứng lên, giơ tay ra hiệu cho mọi người yên lặng rồi nói: “Hỡi người Israel và những kẻ kính sợ Thiên Chúa, hãy nghe đây. Thiên Chúa Israel đã chọn Tổ phụ chúng ta, Người đã thăng tiến dân Người khi họ còn cư ngụ trong nước Ai-cập, và Người ra tay mạnh mẽ đưa cha ông chúng ta ra khỏi nước ấy.\r“Sau khi loại bỏ Saolê, Chúa đã đặt Ðavít lên làm vua dân Người, để chứng nhận điều đó, chính Người đã phán: “Ta đã gặp được Ðavít, con của Giêsê, người vừa ý Ta, người sẽ thi hành mọi ý muốn của Ta”.\r“Bởi dòng dõi Ðavít, theo lời hứa, Thiên Chúa ban cho Israel Ðức Giêsu làm Ðấng Cứu Ðộ, Ðấng mà Gioan đã báo trước, khi ông đến rao giảng phép rửa thống hối cho toàn dân Israel. Khi Gioan hoàn tất hành trình, ông tuyên bố: “Tôi không phải là người mà anh em lầm tưởng; nhưng đây, Người sẽ đến sau tôi mà tôi không đáng cởi dây giày dưới chân Người”.",
+      "excerpt": "Tt 2, 11-14",
+      "info": "“Ân sủng của Chúa đã đến với mọi người”.",
+      "title": "Trích thư Thánh Phaolô Tông đồ gửi cho Titô.",
+      "content": "Ân sủng của Thiên Chúa, Ðấng Cứu Ðộ chúng ta, đã xuất hiện cho mọi người, dạy chúng ta từ bỏ gian tà và những dục vọng trần tục, để sống tiết độ, công minh và đạo đức ở đời này, khi trông đợi niềm hy vọng hạnh phúc và cuộc xuất hiện sự vinh quang của Ðức Giêsu Kitô là Thiên Chúa cao cả và là Ðấng Cứu Ðộ chúng ta. Người đã hiến thân cho chúng ta để cứu chuộc chúng ta khỏi mọi điều gian ác, luyện sạch chúng ta thành một dân tộc xứng đáng của Người, một dân tộc nhiệt tâm làm việc thiện.",
       "end": "Ðó là lời Chúa"
     },
     "alleluia": {
-      "verse": " ",
-      "content": "Alleluia, Alleluia,  Alleluia.- Ngày mai tội lỗi trần gian sẽ được xoá bỏ, và Ðấng Cứu Thế sẽ ngự trị trên chúng ta. – Alleluia."
+      "verse": "Lc 2, 10-11 ",
+      "content": "Alleluia, Alleluia,  Alleluia.- Ta báo cho anh em một tin mừng: Hôm nay Ðấng Cứu Thế, là Chúa Kitô, đã giáng sinh cho chúng ta. – Alleluia."
     },
     "gospel": {
-      "excerpt": "Mt 1, 1-25",
-      "info": "“Dòng dõi Chúa Giêsu Kitô, con vua Ðavít”.",
-      "title": "Tin Mừng Chúa Giêsu Kitô theo Thánh Matthêu.",
-      "content": "Sách gia phả của Chúa Giêsu Kitô, con vua Ðavít, con của Abraham. Abraham sinh Isaac; Isaac sinh Giacóp; Giacóp sinh Giuđa ; Phares sinh (bởi bà Thamar) và các anh em người. Giuđa sinh Phares và Zara Esrom; Esrom sinh Aram; Aram sinh Aminadab; Aminadab sinh Naasson; Naasson sinh Salmon; Salmon sinh Booz do bà Rahab; Booz sinh Giobed do bà Rút. Giobed sinh Giêsê; Giêsê sinh vua Ðavít.\rÐavít sinh Salomon do bà vợ của Uria; Salomon sinh Robo-am; Roboam sinh Abia; Abia sinh Asa; Asa sinh Giosaphát; Giosaphát sinh Gioram; Gioram sinh Ozia; Ozia sinh Gioatham; Gioatham sinh Achaz; Achaz sinh Ezekia; Ezekia sinh Manas-se; Manasse sinh Amos; Amos sinh Giosia; Giosia sinh Giêconia và các em trong thời lưu đày ở Babylon.\rSau thời lưu đày ở Babylon, Giêconia sinh Salathiel; Salathiel sinh Zorababel; Zorababel sinh Abiud; Abiud sinh Eliakim; Eliakim sinh Azor; Azor sinh Sađoc; Sađoc sinh Akim; Akim sinh Eliud; Eliud sinh Eleazar; Eleazar sinh Mathan; Mathan sinh Giacóp; Giacóp sinh Giuse, là bạn của Maria, mẹ của Chúa Giêsu gọi là Ðức Kitô.\rVậy, từ Abraham đến Ðavít có tất cả mười bốn đời, từ Ðavít đến cuộc lưu đày ở Babylon có mười bốn đời, và từ cuộc lưu đày ở Babylon cho đến Chúa Kitô có mười bốn đời.\rChúa Kitô giáng sinh trong hoàn cảnh sau đây: Mẹ Người là Maria đính hôn với Giuse, trước khi về chung sống với nhau, bà đã thụ thai bởi phép Chúa Thánh Thần. Giuse, bạn của bà là người công chính, không muốn tố cáo bà, nên định tâm lìa bỏ bà cách kín đáo. Nhưng đang khi định tâm như vậy, thì thiên thần hiện đến cùng ông trong giấc mơ và bảo:\r“Hỡi Giuse con vua Ðavít, đừng ngại nhận Maria về nhà làm bạn mình, vì Maria mang thai là bởi phép Chúa Thánh Thần; bà sẽ hạ sinh một con trai mà ông đặt tên là Giêsu, vì chính Người sẽ cứu dân mình khỏi tội”. Tất cả sự kiện này đã được thực hiện để làm trọn lời Chúa dùng miệng tiên tri phán xưa rằng: “Này đây một trinh nữ sẽ thụ thai, hạ sinh một con trai, người ta sẽ gọi tên con trẻ là Emmanuel, nghĩa là Thiên Chúa-ở-cùng-chúng-ta”.\rKhi tỉnh dậy, Giuse đã thực hiện như lời thiên thần Chúa truyền. Ông tiếp nhận bạn mình, nhưng không ăn ở với nhau, cho đến khi Maria sinh con trai đầu lòng, thì Giuse đặt tên con trẻ là Giêsu.\r Đó là Lời Chúa.\r .\rHoặc đọc bài vắn này: Mt 1, 18-25\r“Maria sẽ hạ sinh một con trai mà ông đặt tên là Giêsu”.\rTin Mừng Chúa Giêsu Kitô theo Thánh Matthêu.\rChúa Kitô giáng sinh trong hoàn cảnh sau đây:\rMẹ Người là Maria đính hôn với Giuse, trước khi về chung sống với nhau, bà đã thụ thai bởi phép Chúa Thánh Thần. Giuse bạn của bà là người công chính, không muốn tố cáo bà, nên định tâm lìa bỏ bà cách kín đáo. Nhưng đang khi định tâm như vậy, thì thiên thần hiện đến cùng ông trong giấc mơ và bảo:\r“Hỡi Giuse con vua Ðavít, đừng ngại nhận Maria về nhà làm bạn mình: vì Maria mang thai là bởi phép Chúa Thánh Thần; bà sẽ hạ sinh một con trai mà ông đặt tên là Giêsu: vì chính Người sẽ cứu dân mình khỏi tội”. Tất cả sự kiện này đã được thực hiện để làm trọn lời Chúa dùng miệng tiên tri phán xưa rằng:\r“Này đây một trinh nữ sẽ thụ thai, hạ sinh một con trai, người ta sẽ gọi tên con trẻ là Emmanuel, nghĩa là Thiên-Chúa-ở-cùng-chúng-ta”.\rKhi tỉnh dậy, Giuse đã thực hiện như lời thiên thần Chúa truyền. Ông tiếp nhận bạn mình, nhưng không ăn ở với nhau, cho đến khi Maria sinh con trai đầu lòng, thì Giuse đặt tên con trẻ là Giêsu.",
+      "excerpt": "Lc 2, 1-14",
+      "info": "“Hôm nay Ðấng Cứu Thế đã giáng sinh cho chúng ta”.",
+      "title": "Tin Mừng Chúa Giêsu Kitô theo Thánh Luca.",
+      "content": "Ngày ấy, có lệnh của hoàng đế Cêsarê Augustô ban ra, truyền cho khắp nơi phải làm sổ kiểm tra. Ðây là cuộc kiểm tra đầu tiên, thực hiện thời Quirinô làm thủ hiến xứ Syria. Mọi người đều lên đường trở về quê quán mình. Giuse cũng rời thị trấn Nadarét, trong xứ Galilêa, trở về quê quán của Ðavít, gọi là Bêlem, vì Giuse thuộc hoàng gia và là tôn thất dòng Ðavít, để khai kiểm tra cùng với Maria, bạn người, đang có thai. \r Sự việc xảy ra trong lúc ông bà đang ở đó, là Maria đã tới ngày mãn nguyệt khai hoa, và bà đã hạ sinh con trai đầu lòng. Bà bọc con trẻ trong khăn vải và đặt nằm trong máng cỏ, vì hai ông bà không tìm được chỗ trong hàng quán. \r Bấy giờ trong miền đó có những mục tử đang ở ngoài đồng và thức đêm để canh giữ đoàn vật mình. Bỗng có thiên thần Chúa hiện ra đứng gần bên họ, và ánh quang của Thiên Chúa bao toả chung quanh họ, khiến họ hết sức kinh sợ. Nhưng thiên thần Chúa đã bảo họ rằng: “Các ngươi đừng sợ, đây ta mang đến cho các ngươi một tin mừng đặc biệt, đó cũng là tin mừng cho cả toàn dân: Hôm nay Chúa Kitô, Ðấng Cứu Thế, đã giáng sinh cho các ngươi trong thành của Ðavít. Và đây là dấu hiệu để các ngươi nhận biết Người: Các ngươi sẽ thấy một hài nhi mới sinh, bọc trong khăn vải và đặt nằm trong máng cỏ”. \r Và bỗng chốc, cùng với các thiên thần, có một số đông thuộc đạo binh thiên quốc đồng thanh hát khen Chúa rằng: “Vinh danh Thiên Chúa trên các tầng trời, và bình an dưới thế cho người thiện tâm”.",
       "end": "Ðó là lời Chúa"
     }
   },
