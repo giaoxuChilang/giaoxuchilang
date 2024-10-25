@@ -1,5 +1,35 @@
 window.bibledailyOrdinary2Readings = 
 {
+    "5446": {
+    "firstReading": {
+      "excerpt": "I Is 61, 9-11",
+      "info": "“Tôi hớn hở vui mừng trong Chúa”.",
+      "title": "Trích sách tiên tri Isaia",
+      "content": "Dòng dõi chúng sẽ được nổi danh giữa các dân tộc; miêu duệ chúng sẽ được biết đến giữa chư dân. Tất cả những ai thấy họ, đều nhận biết họ là dòng dõi được Chúa chúc phúc. Tôi hớn hở vui mừng trong Chúa, và lòng tôi hoan hỉ trong Chúa tôi, vì Người đã mặc cho tôi áo phần rỗi và choàng áo công chính cho tôi, như tân lang đầu đội triều thiên, như tân nương trang sức bằng ngọc bảo. Như đất đâm chồi, như vườn nảy lộc, Chúa cũng làm phát sinh công chính và lời ca tụng trước mặt muôn dân. ",
+      "end": "Ðó là lời Chúa"
+      },
+    "psalms": {
+      "excerpt": "Tv 44, 10bc. 11. 12ab. 16",
+      "response": "Đáp: Xin hãy nghe, thưa nương tử, hãy coi và hãy lắng tai.",
+      "verses": [
+        "Xướng: Hoàng hậu đứng bên hữu đức vua, mặc đồ trang điểm vàng ròng lộng lẫy.",
+        "Xướng: Xin hãy nghe, thưa nương tử, hãy coi và hãy lắng tai, hãy quên dân tộc và nhà thân phụ.",
+        "Xướng: Để Đức Vua Người sủng ái dung nhan: chính Người là Chúa của cô nương, hãy phục vụ Người.",
+        "Xướng: Họ bước đi trong niềm hân hoan vui vẻ, tiến vào trong cung điện Đức Vua."
+       ]
+      },
+    "alleluia": {
+      "verse": "x. Lc 2, 19",
+      "content": "Alleluia,Alleluia, alleluia! – Đức Trinh Nữ Maria hiển vinh đã ghi nhớ lời Chúa và suy niệm trong lòng. – Alleluia."
+      },
+    "gospel": {
+      "excerpt": "Lc 2, 41-51",
+      "info": "“ Mẹ Người ghi nhớ những việc đó trong lòng”.",
+      "title": "Tin Mừng Chúa Giêsu Kitô theo Thánh Luca",
+      "content": "Hằng năm cha mẹ Chúa Giêsu có thói quen lên Giêrusalem để mừng lễ Vượt qua. Lúc bấy giờ Chúa Giêsu lên mười hai tuổi, cha mẹ Người đã lên Giêrusalem, theo tục lệ mừng ngày lễ Vượt cha mẹ Người đã lên Giêrusalem, theo tục lệ mừng ngày lễ Vượt Qua. Và khi những ngày lễ đã hoàn tất, hai ông bà ra về, trẻ Giêsu đã ở lại Giêrusalem mà cha mẹ Người không hay biết. Tưởng rằng Người ở trong nhóm các khách đồng hành, hai ông bà đi được một ngày đàng, mới tìm kiếm Người trong nhóm bà con và những kẻ quen biết. Nhưng không gặp thấy Người, nên hai ông bà trở lại Giêrusalem để tìm Người. Sau ba ngày, hai ông bà gặp thấy Người trong đền thờ đang ngồi giữa các thầy tiến sĩ, nghe và hỏi các ông. Tất cả những ai nghe Người nói, đều ngạc nhiên trước sự hiểu biết và những câu Người đáp lại. Nhìn thấy Người, hai ông bà đã ngạc nhiên, và mẹ Người bảo Người rằng: “Con ơi, sao Con làm cho chúng ta như thế? Kìa cha Con và mẹ đây, đã đau khổ tìm Con”. Người thưa với hai ông bà rằng: “Mà tại sao cha mẹ tìm con? Cha mẹ không biết rằng con phải lo công việc của Cha con ư?” Nhưng hai ông bà không hiểu lời Người nói. Bấy giờ Người theo hai ông bà trở về Nadarét, và Người vâng phục hai ông bà. Maria mẹ Người ghi nhớ những việc đó trong lòng.",
+      "end": "Ðó là lời Chúa"
+    }
+  },
   "5011": {
     "firstReading": {
       "excerpt": "(Năm II) 1 Sm 1, 1-8",
