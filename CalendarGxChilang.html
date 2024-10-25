@@ -1332,8 +1332,8 @@ function showfordayContent(date) {
                     const gospel = reading.gospel ? `${reading.gospel.excerpt}` : '';
 
                     // Kết hợp tất cả các phần vào một chuỗi
-                    //const readingContent = `${reading1}${psalm}${reading2}${gospel}`;
-                    const readingContent = `${reading1}${reading2}<strong>${gospel}</strong>`;
+                    const readingContent = `${reading1}<em>${psalm}</em>${reading2}<strong>${gospel}</strong>`;
+                   // const readingContent = `${reading1}${reading2}<strong>${gospel}</strong>`;
                      return readingContent;
                 } else {
                     return '';
