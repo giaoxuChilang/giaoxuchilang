@@ -27,10 +27,10 @@ const getCodeForDate = (function (global) {
             date: MotheChurch,
             code: `8411`
         });
-        codeSecondaryNumbers.push({
-            date: BHeartMaria,
-            code: `8441`
-        });
+        //codeSecondaryNumbers.push({
+         //   date: BHeartMaria,
+        //    code: `8441`
+       // });
         
     
 
