@@ -100,31 +100,6 @@
             function isDuringLunarNewYear(date) {
                 return date >= lunarNewYearStart && date <= lunarNewYearEnd;
             }
-
-            // Thêm sự kiện cho thứ Năm và thứ Sáu đầu tháng nếu thỏa mãn các điều kiện
-        // Thêm sự kiện cho thứ Năm và thứ Sáu đầu tháng nếu thỏa mãn các điều kiện
-        for (let m = 0; m < 12; m++) {
-            let firstThursday = getFirstSpecificDayOfMonth(year, m, 4); // Thứ Năm đầu tiên
-            let firstFriday = getFirstSpecificDayOfMonth(year, m, 5); // Thứ Sáu đầu tiên
-
-            // Điều kiện không có Chầu Thánh Thể và Đàng Thánh Giá trong khoảng từ Thứ Tư Lễ Tro tới Lễ Chúa Thánh Thần
-            if (!isBetweenAshWednesdayAndPentecost(firstThursday) && !isBetweenAshWednesdayAndPentecost(firstFriday)) {
-                
-                // Điều kiện không có Chầu Thánh Thể và Đàng Thánh Giá trong tháng 1 và tháng 10
-                if (m !== 9 && m !== 0) {
-                    // Điều kiện không có Đàng Thánh Giá nếu ngày thứ Sáu đầu tháng sau Chủ Nhật thứ nhất của Mùa Vọng
-                    if (firstFriday < firstSundayOfAdvent && !isDuringLunarNewYear(firstFriday)) {
-                        OptionFeasts.push({ name: "Tối 19 giờ Đàng Thánh Giá", date: firstFriday });
-                    }
-
-                    // Chỉ thêm sự kiện Chầu Thánh Thể nếu không phải tháng 10 và không nằm trong 5 ngày trước và 3 ngày sau Tết Âm Lịch
-                    if (!isDuringLunarNewYear(firstThursday)) {
-                        OptionFeasts.push({ name: "Tối 19 giờ Chầu Thánh Thể", date: firstThursday });
-                    }
-                }
-            }
-        }
-
             
 
             for (let m = 0; m < 12; m++) {
