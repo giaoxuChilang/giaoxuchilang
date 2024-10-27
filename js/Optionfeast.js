@@ -107,6 +107,9 @@
                 let firstFriday = getFirstSpecificDayOfMonth(year, m, 5); // First Friday
             
                 if (!isBetweenAshWednesdayAndPentecost(firstThursday) && !isBetweenAshWednesdayAndPentecost(firstFriday)) {
+                      if (m === 10 && firstFriday.getDate() === 1) {
+                         continue;
+            }
             
                            if (m !== 9 && m !== 0) {
             
