@@ -19,6 +19,13 @@ const getCodeForDate = (function (global) {
         let BHeartMaria = new Date(easterDate);
         BHeartMaria.setDate(easterDate.getDate() + 69); // Lễ vọng Thăng Thiên
 
+        let christTheKing = getChristTheKing(year);
+        christTheKing.setDate(christTheKing.getDate()-7);
+        codeSecondaryNumbers.push({
+            date: christTheKing,
+            code: `8330`
+        });
+
         codeSecondaryNumbers.push({
             date: Bpentecost,
             code: `8410`
