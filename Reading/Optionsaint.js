@@ -707,6 +707,43 @@ window.OptionsaintReadings = {
       "end": "Ðó là lời Chúa"
     }
   },
+  "8330": {
+    "firstReading": {
+      "excerpt": "Kn 3, 1-9 (TN II: 524)",
+      "info": "“Chúa chấp nhận các ngài như của lễ toàn thiêu”.",
+      "title": "Trích sách Khôn Ngoan.",
+      "content": "Linh hồn những người công chính ở trong tay Chúa, và đau khổ sự chết không làm gì được các ngài. Ðối với con mắt của người không hiểu biết, thì hình như các ngài đã chết và việc các ngài từ biệt chúng ta, là như đi vào cõi tiêu diệt. Nhưng thật ra các ngài sống trong bình an. Và trước mặt người đời, dầu các ngài có chịu khổ hình, lòng trông cậy của các ngài cũng không chết. Sau một giây lát chịu khổ nhục, các ngài sẽ được vinh dự lớn lao; vì Chúa đã thử thách các ngài như thử vàng trong lửa, và chấp nhận các ngài như của lễ toàn thiêu.\r Khi đến giờ Chúa ghé mắt nhìn các ngài, các người công chính sẽ sáng chói và chiếu toả ra như ánh lửa chiếu qua bụi lau. Các ngài sẽ xét sử các dân tộc, sẽ thống trị các quốc gia, và Thiên Chúa sẽ ngự trị trong các ngài muôn đời. Các ngài đã tin tưởng ở Chúa, thì sẽ hiểu biết chân lý, và trung thành với Chúa trong tình yêu, vì ơn Chúa và bình an sẽ dành cho những người Chúa chọn.",
+      "end": "Ðó là lời Chúa"
+    },
+    "psalms": {
+      "excerpt": "Tv 125, 1-2ab. 2cd-3. 4-5. 6 (TN II: 326) ",
+      "response": "Đáp:  Ai gieo trong lệ sầu sẽ gặt trong hân hoan.c5",
+      "verses": [
+        "Xướng: Khi Chúa đem những người Si-on bị bắt trở về, chúng tôi dường như Người đang mơ, bấy giờ miệng chúng tôi vui cười, lưỡi chúng tôi thốt lên những tiếng hân hoan.",
+        "Xướng: Bấy giờ dân thiên hạ nói với nhau rằng: “Chúa đã đối xử với họ cách đại lượng”. Chúa đã đối xử đại lượng với chúng tôi, nên chúng tôi mừng rỡ hân hoan.",
+        "Xướng: Lạy Chúa, xin hãy đổi số phận của con, như những dòng suối ở miền nam. Ai gieo trong lệ sầu, sẽ gặt trong hân hoan.",   
+        "Xướng: Thiên hạ vừa đi vừa khóc, tay mang thóc đi gieo; họ trở về hân hoan, vai mang những bó lúa."
+      ]
+    },
+    "secondReading": {
+      "excerpt": "1 Cr 1, 17-25. (TN II: 111) ",
+      "info": "“Vì tiếng nói của Thập Giá là sức mạnh của Thiên Chúa ban cho chúng ta”.",
+      "title": "Trích thư thứ nhất của Thánh Phao-lô Tông đồ gửi tín hữu Cô-rin-tô.",
+      "content": "Anh em thân mến, Ðức Ki-tô không sai tôi đi rửa tội, mà là rao giảng Tin Mừng, không phải bằng lời nói khôn khéo, kẻo Thập giá của Ðức Ki-tô ra hư không.\r Vì chưng lời rao giảng về Thập giá là sự điên rồ đối với những kẻ hư mất; nhưng đối với những người được cứu độ là chúng ta, thì điều đó là sức mạnh của Thiên Chúa. Vì như đã chép rằng: “Ta sẽ phá huỷ sự khôn ngoan của những kẻ khôn ngoan, sẽ chê bỏ sự thông thái của những người thông sáng. Người khôn ngoan ở đâu? Người trí thức ở đâu? Người lý sự đời này ở đâu?” Nào Thiên Chúa chẳng làm cho sự khôn ngoan của đời này hóa ra điên rồ đó sao? Vì thế gian tự phụ là khôn, không theo sự khôn ngoan của Thiên Chúa mà nhận biết Thiên Chúa, thì Thiên Chúa đã muốn dùng sự điên rồ của lời rao giảng để cứu độ những kẻ tin. Vì chưng, các người Do-thái đòi hỏi những dấu lạ, những người Hy-lạp tìm kiếm sự khôn ngoan, còn chúng tôi, chúng tôi rao giảng Chúa Ki-tô chịu đóng đinh trên thập giá, một cớ vấp phạm cho người Do-thái, một sự điên rồ đối với các người ngoại giáo. Nhưng đối với những người được gọi, dầu là Do-thái hay Hy-lạp, thì Ngài là Chúa Ki-tô, quyền năng của Thiên Chúa, và sự khôn ngoan của Thiên Chúa, vì sự điên dại của Thiên Chúa thì vượt hẳn sự khôn ngoan của loài người, và sự yếu đuối của Thiên Chúa thì vượt hẳn sức mạnh của loài người. ",
+      "end": "Ðó là lời Chúa"
+    },
+    "alleluia": {
+      "verse": "1 Pr 4, 14",
+      "content": "Alleluia, Alleluia, – Nếu anh em bị sỉ nhục vì danh Chúa Ki-tô, thì phúc cho anh em, vì Thánh Thần Chúa sẽ ngự trên anh em. – Alleluia."
+    },
+    "gospel": {
+      "excerpt": "Mt 10, 16-23 (TN II :454)",
+      "info": "“Các con sẽ bị điệu đến nhà cầm quyền và vua chúa vì Thầy, để làm chứng cho họ và cho dân ngoại biết”.",
+      "title": "Tin Mừng Chúa Giê-su Ki-tô theo Thánh Mát-thêu.",
+      "content": "Khi ấy, Chúa Giê-su phán cùng các Tông đồ rằng: “Các con hãy coi chừng người đời, vì họ sẽ nộp các con cho công nghị, và sẽ đánh đập các con nơi hội đường của họ. Các con sẽ bị điệu đến nhà cầm quyền và vua chúa vì Thầy, để làm chứng cho họ và cho dân ngoại được biết. Nhưng khi người ta bắt nộp các con, thì các con đừng lo nghĩ phải nói thế nào và nói gì. Vì trong giờ ấy sẽ cho các con biết phải nói gì: vì chưng, không phải chính các con nói, nhưng là Thánh Thần của Cha các con nói trong các con. Anh sẽ nộp em, cha sẽ nộp con, con cái sẽ chống lại cha mẹ và làm cho cha mẹ phải chết. Vì danh Thầy, các con sẽ bị mọi người ghen ghét, nhưng ai bền đỗ đến cùng, kẻ ấy sẽ được cứu độ”.",
+      "end": "Ðó là lời Chúa"
+    }
+  },
   "8410": {
     "firstReading": {
       "excerpt": "Xh 19,3-8a. 16-20b (St 11,1-9:...)",
