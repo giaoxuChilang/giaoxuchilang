@@ -100,7 +100,7 @@ function addFeastend1(name, date) {
         addFeast("CHÚA NHẬT CHÚA THĂNG THIÊN. Lễ trọng, Lễ cầu cho giáo dân (Lễ họ).", new Date(easterDate.getTime() + 42 * 24 * 60 * 60 * 1000)); // Seventh Sunday of Easter
         addFeast("Thứ Hai. Đức Trinh Nữ Maria, Mẹ Hội Thánh. Lễ nhớ.", new Date(easterDate.getTime() + 50 * 24 * 60 * 60 * 1000)); // Day after Pentecost
         addFeast("Thứ Bảy. Trái Tim Vô Nhiễm Đức Mẹ. Lễ nhớ.", new Date(easterDate.getTime() + 69 * 24 * 60 * 60 * 1000)); // Immaculate Heart of Mary
-        addFeast("KÍNH TRỌNG THỂ CÁC THÁNH TỬ ĐẠO VIỆT NAM.", new Date(christTheKing.getTime() - 7 * 24 * 60 * 60 * 1000)); // One week before Christ the King
+        //addFeast("KÍNH TRỌNG THỂ CÁC THÁNH TỬ ĐẠO VIỆT NAM.", new Date(christTheKing.getTime() - 7 * 24 * 60 * 60 * 1000)); // One week before Christ the King
         addFeast("CHÚA KITÔ VUA VŨ TRỤ.", christTheKing);
    
         // Thêm các ngày lễ âm lịch vào mảng feasts
