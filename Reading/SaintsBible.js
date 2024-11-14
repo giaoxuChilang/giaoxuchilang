@@ -1204,7 +1204,7 @@ window.SaintsBibleReading = {
     },
     "psalms": {
       "excerpt": "Tv 125, 1-2ab. 2cd-3. 4-5. 6",
-      "response": "Ðáp: Chúa đã đối xử đại lượng với chúng tôi, nên chúng tôi mừng rỡ hân hoan.",
+      "response": "Ðáp: Ai gieo trong lệ sầu, sẽ gặt trong hân hoan.c5",
       "verses": [
         "Xướng: Khi Chúa đem những người Sion bị bắt trở về, chúng tôi dường như Người đang mơ, bấy giờ miệng chúng tôi vui cười, lưỡi chúng tôi thốt lên những tiếng hân hoan.",
         "Xướng: Bấy giờ dân thiên hạ nói với nhau rằng: “Chúa đã đối xử với họ cách đại lượng”. Chúa đã đối xử đại lượng với chúng tôi, nên chúng tôi mừng rỡ hân hoan.",
