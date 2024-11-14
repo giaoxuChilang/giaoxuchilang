@@ -17,6 +17,8 @@
         let EndSunday = parseDate(getEndSundayOfYear(year));
 
         // Tính các ngày lễ vọng
+        const christTheKing = parseDate(getChristTheKing(year));
+        secondFeasts.push({name: 'KÍNH TRỌNG THỂ CÁC THÁNH TỬ ĐẠO VIỆT NAM. (Đ)', date: new Date(christTheKing.getTime() - 7 * 24 * 60 * 60 * 1000)}); // One week before Christ the King
         secondFeasts.push({ name: 'Bắt đầu tuần cầu nguyện cho các kitô hữu hợp nhất.', date: new Date(year, 0, 18) });
         secondFeasts.push({ name: 'Kết thúc tuần cầu nguyện cho các kitô hữu hợp nhất.', date: new Date(year, 0, 25) });
 
