@@ -1339,5 +1339,33 @@ window.SaintsBibleReading = {
       "content": "Khi ấy, Chúa Giêsu đến địa hạt thành Cêsarêa Philipphê, và hỏi các môn đệ rằng: “Người ta bảo Con Người là ai?” Các ông thưa: “Người thì bảo là Gioan Tẩy Giả, kẻ thì bảo là Êlia, kẻ khác lại bảo là Giêrêmia hay một tiên tri nào đó”. Chúa Giêsu nói với các ông: “Phần các con, các con bảo Thầy là ai?” Simon Phêrô thưa rằng: “Thầy là Ðức Kitô, Con Thiên Chúa hằng sống”.\rChúa Giêsu trả lời rằng: “Hỡi Simon con ông Giona, con có phúc, vì chẳng phải xác thịt hay máu huyết mạc khải cho con, nhưng là Cha Thầy, Ðấng ngự trên trời. Vậy Thầy bảo cho con biết: Con là Ðá, trên đá này Thầy sẽ xây Hội Thánh của Thầy, và cửa địa ngục sẽ không thắng được. Thầy sẽ trao cho con chìa khoá nước trời. Sự gì con cầm buộc dưới đất, trên trời cũng cầm buộc; và sự gì con cởi mở dưới đất, trên trời cũng cởi mở”.",
       "end": "Ðó là lời Chúa"
     }
+  },
+  "70109": {
+    "firstReading": {
+     "excerpt": "Kn 13, 1-9 (hoặc Cl 1,15-20)",
+      "info": "“Vì nếu họ đã đủ khả năng để hiểu biết đến mức có thể suy đoán về sự thường tồn vạn vật, thì tại sao họ lại không nhận ra Chủ Tể vạn vật sớm hơn?” .",
+      "title": "Trích sách Khôn Ngoan.",
+      "content": "Khờ dại thay tất cả những người không chịu nhận biết Chúa, và cả những người không biết căn cứ vào các sự vật hữu hình để tìm hiểu Ðấng Tự Hữu, và không chú ý đến các công trình để biết ai là Ðấng Hoá công. Nhưng họ kể lửa, gió, khí thiêng, bầu trời đầy tinh tú, nước lũ, mặt trời, mặt trăng là những thần minh bá chủ hoàn cầu. Nếu họ say mê vẻ đẹp của các vật đó mà kể chúng là chúa tể, thì phải biết rằng: Ðấng quản trị các vật đó còn tốt đẹp hơn bội phần, vì chính Ðấng tác sinh thiện mỹ, đã tạo thành mọi vật đó. Hoặc nếu họ ngạc nhiên về năng lực và kỳ công của những tạo vật đó, thì do đó họ phải hiểu rằng Ðấng đã tạo thành các vật đó, còn có quyền lực hơn nhiều, vì do sự cao sang tốt đẹp của tạo vật mà người ta có thể nhìn biết Ðấng tạo dựng mọi loài.\rDầu sao họ cũng không đáng trách mấy, vì chưng, có lẽ họ lầm trong khi tìm kiếm Chúa, và muốn gặp Người. Họ tìm kiếm, khi sống giữa các kỳ công của Chúa, nhưng họ ngộ nhận khi thấy các vật kia tốt đẹp.\rTuy vậy, chính họ cũng không đáng được tha thứ, vì nếu họ có khả năng nhận thức để truy tầm càn khôn, sao họ lại không nhận thấy cách dễ dàng hơn chính Chúa tể càn khôn?",
+      "end": "Ðó là lời Chúa"
+    },
+    "psalms": {
+      "excerpt": "Tv 18, 2-3. 4-5 (Hoặc Thánh vịnh 104 (103))",
+      "response": "Ðáp: Trời xanh tường thuật vinh quang Thiên Chúa",
+      "verses": [
+        "Xướng: Trời xanh tường thuật vinh quang Thiên Chúa, thanh không kể ra sự nghiệp tay Người. Ngày này nhắc nhủ cho ngày khác, đêm này truyền tụng cho đêm kia.",
+        "Xướng: Ðây không phải lời cũng không phải tiếng, mà âm thanh chúng không thể lọt tai. Nhưng tiếng chúng đã vang cùng trái đất, và lời chúng truyền ra khắp cõi địa cầu."
+      ]
+    },
+    "alleluia": {
+      "verse": "Tv 104, 24",
+      "content": "alleluia! – Công trình Ngài, lạy Chúa, quả thiên hình vạn trạng! \n Chúa hoàn thành tất cả thật khôn ngoan. – Alleluia."
+    },
+    "gospel": {
+      "excerpt": "Mt 6, 24-34",
+      "info": "“Vậy đừng lo lắng cho ngày mai.”.",
+      "title": "Tin Mừng Chúa Giêsu Kitô theo Thánh Matthêu.",
+      "content": "Khi ấy, Chúa Giêsu phán cùng các môn đệ rằng: “Không ai có thể làm tôi hai chủ: vì hoặc nó sẽ ghét người này, và yêu mến người kia, hoặc nó chuộng chủ này, và khinh chủ nọ. Các con không thể làm tôi Thiên Chúa và Tiền Của được. Vì thế, Thầy bảo các con: Chớ áy náy lo lắng cho mạng sống mình: lấy gì mà ăn; hay cho thân xác các con: lấy gì mà mặc. Nào mạng sống không hơn của ăn, và thân xác không hơn áo mặc sao?\r“Hãy nhìn xem chim trời, chúng không gieo, không gặt, không thu vào lẫm, thế mà Cha các con trên trời vẫn nuôi chúng. Nào các con không hơn chúng sao? Nào có ai trong các con lo lắng áy náy mà có thể làm cho mình cao thêm một gang được ư? Còn về áo mặc, các con lo lắng làm gì? Hãy ngắm xem hoa huệ ngoài đồng coi chúng mọc lên thế nào? Chúng không làm lụng, không canh cửi. Nhưng Thầy nói với các con rằng: Ngay cả Salomon trong tất cả vinh quang của ông, cũng không phục sức được bằng một trong những đoá hoa đó. Vậy nếu hoa cỏ đồng nội, nay còn, mai bị ném vào lò lửa, mà còn được Thiên Chúa mặc cho như thế, huống chi là các con, hỡi những kẻ kém lòng tin. Vậy các con chớ áy náy lo lắng mà nói rằng: “Chúng ta sẽ ăn gì, uống gì hoặc sẽ lấy gì mà mặc? Vì chưng, dân ngoại tìm kiếm những điều đó. Nhưng Cha các con biết rõ các con cần đến những điều đó. Tiên vàn các con hãy tìm kiếm nước Thiên Chúa và sự công chính của Người, còn các điều đó Người sẽ ban thêm cho các con. Vậy các con chớ áy náy lo lắng về ngày mai. Vì ngày mai sẽ lo cho ngày mai. Ngày nào có sự khốn khổ của ngày ấy”.",
+      "end": "Ðó là lời Chúa"
+    }
   }
 };
