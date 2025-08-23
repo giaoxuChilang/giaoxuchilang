@@ -20,7 +20,7 @@ window.celebrations = [
         { date: '06/02', type: 'M', feast: 'Thánh Phaolô Miki và các bạn tử đạo.', chasuble: 'Đ' },
         { date: '08/02', type: 'O', feast: 'Thánh Giêrônimô Êmilianô (Tr). Thánh Jôsêphina Bakhita, trinh nữ (Tr).' },
         { date: '10/02', type: 'M', feast: 'Thánh Scholastica, trinh nữ.', chasuble: 'Tr' },
-        { date: '11/02', type: 'O', feast: 'Đức Mẹ Lộ Đức (Tr). Ngày quốc tế bệnh nhân.' },
+        { date: '11/02', type: 'O', feast: 'Đức Mẹ Lộ Đức (Tr). Ngày quốc tế bệnh nhân.' , chasuble: 'Tr' },
         { date: '14/02', type: 'M', feast: 'Thánh Cyrillô, đan sĩ và thánh Mêthôđiô, giám mục.', chasuble: 'Tr' },
         { date: '17/02', type: 'O', feast: 'Bảy thánh lập dòng Tôi Tớ Đức Trinh Nữ Maria (Tr).' },
         { date: '21/02', type: 'O', feast: 'Thánh Phêrô Đamianô, giám mục, tiến sĩ Hội Thánh (Tr).' },
@@ -119,7 +119,7 @@ window.celebrations = [
         { date: '19/08', type: 'O', feast: 'Thánh Gioan Êuđê, linh mục (Tr).' },
         { date: '20/08', type: 'M', feast: 'Thánh Bêrnarđô, viện phụ, tiến sĩ Hội Thánh.', chasuble: 'Tr' },
         { date: '21/08', type: 'M', feast: 'Thánh Piô X, giáo hoàng.', chasuble: 'Tr' },
-        { date: '22/08', type: 'M', feast: 'Đức Maria Nữ Vương.', chasuble: 'Tr' },
+        { date: '22/08', type: 'M', feast: 'Đức Maria Nữ Vương. Lễ nhớ.', chasuble: 'Tr' },
         { date: '23/08', type: 'O', feast: 'Thánh Rôsa Lima, trinh nữ (Tr).' },
         { date: '24/08', type: 'F', feast: 'THÁNH BARTHÔLÔMÊO, TÔNG ĐỒ.', chasuble: 'Đ' },
         { date: '25/08', type: 'O', feast: 'Thánh Luy (Tr). Thánh Giuse Calasanz, linh mục (Tr).' },
@@ -127,7 +127,8 @@ window.celebrations = [
         { date: '28/08', type: 'M', feast: 'Thánh Augustinô, giám mục, tiến sĩ Hội Thánh.', chasuble: 'Tr' },
         { date: '29/08', type: 'M', feast: 'Thánh Gioan Tẩy Giả bị trảm quyết.', chasuble: 'Đ' },
 
-	{ date: '02/09', type: 'O', feast: 'Ngày Quốc Khánh. Cầu bình an cho Tổ Quốc' },
+        {date: '01/09', type: 'O', feast: 'Cầu Cho Việc Bảo Vệ Công Trình Tạo Dựng.', chasuble: 'Tr' },
+        { date: '02/09', type: 'O', feast: 'Ngày Quốc Khánh. Cầu bình an cho Tổ Quốc.' },
         { date: '03/09', type: 'M', feast: 'Thánh Grêgôriô Cả, giáo hoàng, tiến sĩ Hội Thánh.', chasuble: 'Tr' },
         { date: '05/09', type: 'O', feast: 'Thánh Têrêsa Calcutta, nữ tu (Tr).' },
         { date: '08/09', type: 'F', feast: 'SINH NHẬT ĐỨC ĐỨC TRINH NỮ MARIA.', chasuble: 'Tr' },
@@ -198,6 +199,6 @@ window.celebrations = [
         { date: '26/12', type: 'F', feast: 'THÁNH STÊPHANÔ, TỬ ĐẠO TIÊN KHỞI.', chasuble: 'Đ' },
         { date: '27/12', type: 'F', feast: 'THÁNH GIOAN, TÔNG ĐỒ. TÁC GIẢ TIN MỪNG.', chasuble: 'Đ' },
         { date: '28/12', type: 'F', feast: 'CÁC THÁNH ANH HÀI TỬ ĐẠO.', chasuble: 'Đ' },
-        { date: '31/12', type: 'O', feast: 'Thánh Sylvestro, giáo hoàng.'},
+        { date: '31/12', type: '0', feast: 'Thánh Sylvestro, giáo hoàng.'},
     ];
 
