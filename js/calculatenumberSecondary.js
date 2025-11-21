@@ -34,10 +34,10 @@ const getCodeForDate = (function (global) {
             date: MotheChurch,
             code: `8411`
         });
-        //codeSecondaryNumbers.push({
-         //   date: BHeartMaria,
-        //    code: `8441`
-       // });
+        codeSecondaryNumbers.push({
+            date: BHeartMaria,
+            code: `8441`
+        });
         
     
 
@@ -111,8 +111,8 @@ const getCodeForDate = (function (global) {
     // Các hàm phụ trợ: cập nhật các mã cho các ngày lễ
     function updateCodeSecondaryNumbersForMultipleDates(year, codeSecondaryNumbers) {
         const datesToUpdate = [
-            '05-01', '10-02', '06-11', '09-15', '10-17', '11-21',
-            '08-22', '01-26', '07-26', '07-29', '08-29',  '05-06',  '05-13',  '02-11', '08-27',
+            '05-01', '10-02', '06-11', '09-15', '10-17', '11-21', '09-01',
+            '08-22', '01-26', '07-26', '07-29', '08-29',  '05-06',  '05-13', '02-11', '08-27', '08-28',
         ];
 
         const easterDate = getEasterDate(year);

@@ -92,6 +92,7 @@ function addFeastend1(name, date) {
         addFeast("Cuối tuần Bát nhật Giáng Sinh. THÁNH MARIA MẸ, THIÊN CHÚA. Lễ trọng.", new Date(year, 0, 1));
         addFeast("CHÚA HIỂN LINH. Lễ trọng. Lễ cầu cho giáo dân (Lễ họ).", epiphanySunday);
         addFeast("CHÚA GIÊSU CHỊU PHÉP RỬA, lễ kính.", baptismOfTheLord);
+        addFeast("THỨ TƯ LỄ TRO. Giữ chay và kiêng thịt.", ashWednesday);
         addFeast("THỨ NĂM TUẦN THÁNH. chiều: THÁNH LỄ TIỆC LY.", new Date(easterDate.getTime() - 3 * 24 * 60 * 60 * 1000)); // Holy Thursday
         addFeast("THỨ SÁU TUẦN THÁNH. TƯỞNG NIỆM CUỘC THƯƠNG KHÓ CỦA CHÚA.", new Date(easterDate.getTime() - 2 * 24 * 60 * 60 * 1000)); // Good Friday
         addFeast("THỨ BẢY TUẦN THÁNH. Canh thức Vượt Qua. THÁNH LỄ VỌNG PHỤC SINH.", new Date(easterDate.getTime() - 1 * 24 * 60 * 60 * 1000)); // Holy Saturday
@@ -115,18 +116,6 @@ function addFeastend1(name, date) {
         addFeast(`MỒNG HAI TẾT. KÍNH NHỚ ÔNG BÀ TỔ TIÊN. (${canChi})`, new Date(lunarNewYear.getTime() + 1 * 24 * 60 * 60 * 1000)); // Ngày tiếp theo
         addFeast(`MỒNG BA TẾT.THÁNH HÓA CÔNG ĂN VIỆC LÀM.  (${canChi})`, new Date(lunarNewYear.getTime() + 2 * 24 * 60 * 60 * 1000)); // Ngày tiếp theo
         //addFeast("TRUNG THU, tết thiếu nhi.", midAutumnFestival);
-	      // Hàm để kiểm tra nếu Ash Wednesday trùng với các ngày từ lunarNewYear - 1 đến lunarNewYear + 2
-        const lunarNewYearMinus1 = new Date(lunarNewYear.getTime() - 1 * 24 * 60 * 60 * 1000);
-        const lunarNewYearPlus2 = new Date(lunarNewYear.getTime() + 2 * 24 * 60 * 60 * 1000);
-        let newashWednesday = new Date(lunarNewYear.getTime() + 3 * 24 * 60 * 60 * 1000);
-        if (ashWednesday >= lunarNewYearMinus1 && ashWednesday <= lunarNewYearPlus2) {
-            // Dời Thứ Tư Lễ Tro đến ngày lunarNewYear + 1
-            ashWednesday === lunarNewYearPlus2;
-            // Thêm Thứ Tư Lễ Tro vào mảng feasts sau khi kiểm tra điều kiện
-        addFeast("Chờ Bản Quyền dời LỄ TRO. Giữ chay và kiêng thịt.", newashWednesday);
-        } else {
-            addFeast("THỨ TƯ LỄ TRO. Giữ chay và kiêng thịt.", ashWednesday);
-        }
 
 
         // Mapping các mùa phụng vụ
@@ -195,9 +184,10 @@ function addFeastend1(name, date) {
             ["71508", "ĐỨC MẸ LÊN TRỜI. Lễ trọng. Lễ cầu cho giáo dân (Lễ họ)."],
             ["70211", "CẦU CHO CÁC TÍN HỮU ĐÃ QUA ĐỜI."],
             ["70911", "CUNG HIẾN THÁNH ĐƯỜNG LATÊRANÔ. Lễ kính."],
+            ["71409", "SUY TÔN THÁNH GIÁ. Lễ kính."],
             ["70202", "DÂNG CHÚA GIÊSU TRONG ĐỀN THÁNH (Lễ Nến). Lễ kính."],
             ["71312", "KỶ NIỆM CUNG HIẾN THÁNH ĐƯỜNG GIÁO XỨ. Lễ trọng."],
-	    ["71409", "SUY TÔN THÁNH GIÁ. Lễ kính."],
+            ["71409", "SUY TÔN THÁNH GIÁ. Lễ kính."],
         ]);
 
    
