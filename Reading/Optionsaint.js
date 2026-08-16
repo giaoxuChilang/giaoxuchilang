@@ -526,41 +526,45 @@ window.OptionsaintReadings = {
     }
   },
   "81408": {
-    "firstReading": {
-      "excerpt": "1 V 17, 17-24",
-      "info": "“Ðây, con trai bà sống lại rồi đây”.",
-      "title": "Trích sách Các Vua quyển thứ nhất.",
-      "content": "Trong những ngày ấy, con trai bà chủ nhà đau liệt, cơn bệnh nguy kịch đến nỗi chẳng còn hơi thở. Bà ấy liền nói với Êlia rằng: “Thưa người của Thiên Chúa, giữa tôi với ông có liên can gì? Ông đến nhà tôi để khơi lại những tội của tôi và giết chết con tôi sao?” Êlia đáp lại: “Bà hãy giao con bà cho tôi”. Rồi ông bế lấy đứa trẻ từ lòng mẹ nó, mang lên trên lầu nơi ông cư trú và đặt nó lên giường ông. Ðoạn ông kêu lên cùng Chúa rằng: “Lạy Chúa là Thiên Chúa của con, cớ sao Chúa giáng hoạ, giết con trai bà chủ nhà, nơi con cư ngụ đây?” Ông ấp mình ba lần trên đứa trẻ và kêu lên cùng Chúa rằng: “Lạy Chúa là Thiên Chúa của con, con xin Chúa cho linh hồn đứa trẻ này trở về trong nó”. Và Chúa nhậm lời Êlia, cho hồn nhập lại đứa trẻ, và nó sống lại. Êlia liền ẵm đứa trẻ xuống nhà dưới, trao lại cho mẹ nó và nói rằng: “Ðây, con trai bà sống lại rồi đây”. Bà ta thưa cùng Êlia rằng: “Bây giờ nhờ việc này, tôi biết rõ ông là người của Thiên Chúa, và lời của Chúa nơi miệng ông là lời chân thật”.",
-      "end": "Ðó là lời Chúa"
+    firstReading: {
+      excerpt: "1 Sb 15, 3-4. 15-16; 16, 1-2",
+      info: "“Mọi người cung nghinh hòm bia Thiên Chúa đến đặt giữa nhà xếp do Đavít dựng lên”.",
+      title: "Trích sách Sử Biên Niên quyển thứ nhất.",
+      content:
+        "Trong những ngày ấy, Đavít triệu tập toàn thể dân Israel và Giêrusalem, để cung nghinh hòm bia Thiên Chúa đến nơi đã dọn sẵn. Có cả con cái Aaron và những người thuộc dòng tộc Lêvi.\r Con cái Lêvi dùng đòn khiêng mà khiêng hòm bia Thiên Chúa trên vai, như Môsê đã truyền dạy theo lời Chúa phán. Đavít cũng truyền lệnh cho các trưởng tộc người Lêvi phải cắt đặt anh em mình phụ trách ca hát, với những nhạc khí, gồm đàn cầm, đàn sắt và não bạt, để trổi lên những tiếng đàn ca hân hoan. Vậy mọi người cung nghinh hòm bia Thiên Chúa đến đặt giữa nhà xếp do Đavít dựng lên: đoạn hiến dâng của lễ toàn thiêu và cầu an trước mặt Chúa. Khi vua Đavít hiến dâng của lễ toàn thiêu và cầu an xong, người nhân danh Chúa chúc lành cho dân chúng.",
+      end: "Ðó là lời Chúa",
     },
-    "psalms": {
-      "excerpt": "Tv 29, 2 và 4. 5-6. 11-12a và 13b.",
-      "response": "Ðáp: Lạy Chúa, con ca tụng Chúa vì đã giải thoát con (c. 2a).",
-      "verses": [
-        "Xướng: Lạy Chúa, con ca tụng Chúa vì đã giải thoát con, và không để quân thù hoan hỉ về con. Lạy Chúa, Ngài đã đưa linh hồn con thoát xa Âm phủ, Ngài đã cứu con khỏi số người đang bước xuống mồ.",
-        "Xướng: Các tín đồ của Chúa, hãy đàn ca mừng Chúa, và hãy cảm tạ thánh danh Ngài. Vì cơn giận của Ngài chỉ lâu trong giây phút, nhưng lòng nhân hậu của Ngài vẫn có suốt đời. Chiều hôm có gặp cảnh lệ rơi, nhưng sáng mai lại được mừng vui hoan hỉ.",
-        "Xướng: Lạy Chúa, xin nhậm lời và xót thương con; lạy Chúa, xin Ngài gia ân cứu giúp con. Chúa đã biến đổi lời than khóc thành khúc nhạc cho con; lạy Chúa là Thiên Chúa của con, con sẽ tán tụng Chúa tới muôn đời."
-      ]
+    psalms: {
+      excerpt: "Tv 131, 6-7. 9-10. 13-14",
+      response:
+        "Ðáp: Lạy Chúa, xin lên đường đi tới nơi an nghỉ, Chúa và Hòm bia oai quyền của Chúa cùng đi ",
+      verses: [
+        "Xướng: Đây là điều chúng tôi đã nghe nói tại E-phra-ta, chúng tôi đã gặp thấy nơi đồng ruộng Gia-ar. Chúng ta hãy tiến vào nhà Chúa, hãy sụp lạy trước bệ dưới chân Người.",
+        "Xướng: Các tư tế của Ngài hãy mặc lấy lòng đạo đức, và các tín đồ của Ngài hãy mừng rỡ hân hoan. Xin vì Đavít là tôi tớ Chúa, Chúa đừng hắt hủi người được Chúa xức dầu.",
+        "Xướng: Bởi chưng Chúa đã kén chọn Sion, đã thích lựa Sion làm nơi cư ngụ cho mình. Ngài phán: “Đây là nơi nghỉ ngơi của Ta tới muôn đời, Ta sẽ cư ngụ nơi đây, vì Ta ưa thích.",
+      ],
     },
-    "secondReading": {
-      "excerpt": "Gl 1, 11-19",
-      "info": "“Người đã mạc khải cho tôi biết Con của Người, để tôi rao giảng Người cho dân ngoại”.",
-      "title": "Trích thư Thánh Phaolô Tông đồ gửi tín hữu Galata.",
-      "content": "Anh em thân mến, tôi cho anh em biết rằng Tin Mừng do tôi rao giảng không phải thuộc về loài người, vì tôi không nhận, cũng không học với loài người, nhưng là do Ðức Giêsu Kitô mạc khải. Anh em nghe nói về đời sống của tôi trước kia khi theo đạo Do-thái: tôi đã bắt bớ và phá hoại Hội thánh của Thiên Chúa thái quá. Trong đạo Do-thái, tôi đã vượt hẳn nhiều bạn đồng giống nòi, đồng tuổi với tôi, và tôi nhiệt thành hơn bất cứ ai đối với truyền thống của cha ông tôi.\rNhưng khi Ðấng tách riêng tôi ra từ lòng mẹ và dùng ơn Người mà kêu gọi tôi, đã thương mạc khải Con Người trong tôi, để tôi rao giảng Ngài trong các dân ngoại, thì không lúc nào tôi bàn hỏi người xác thịt máu huyết, và tôi không lên Giêrusalem, để gặp các vị làm tông đồ trước tôi, nhưng tôi đi ngay đến Arabia, rồi lại trở về Ðamas. Ðoạn ba năm sau, tôi mới lên Giêrusalem để gặp Phêrô, và lưu lại với ông mười lăm ngày. Tôi không gặp một tông đồ nào khác, ngoài Giacôbê, anh em của Chúa.",
-      "end": "Ðó là lời Chúa"
+    secondReading: {
+      excerpt: "1 Cr 15, 54-57",
+      info: "Người đã ban cho chúng ta sự chiến thắng nhờ Đức Giêsu Kitô.",
+      title: "Trích thư thứ nhất của Thánh Phaolô Tông đồ gửi tín hữu Côrintô.",
+      content:
+        "Anh em thân mến, khi xác hay chết này mặc lấy sự trường sinh, thì lúc ấy ứng nghiệm lời đã ghi chép rằng: “Sự chết đã tiêu tan trong chiến thắng. Hỡi tử thần, chiến thắng của ngươi ở đâu? Hỡi tử thần, nọc độc của ngươi ở đâu? Nọc độc của sự chết là tội, thế lực của tội là lề luật”. Cảm tạ ơn Thiên Chúa, Đấng đã ban cho chúng ta chiến thắng nhờ Đức Giêsu Kitô, Chúa chúng ta.",
+      end: "Ðó là lời Chúa",
     },
-    "alleluia": {
-      "verse": "Mt 4, 4b",
-      "content": "Alleluia, Alleluia,  Alleluia.-Người ta sống không nguyên bởi bánh, nhưng bởi mọi lời do miệng Thiên Chúa phán ra. – Alleluia."
+    alleluia: {
+      verse: "Lc 11, 28",
+      content:
+        "Alleluia, Alleluia.-Phúc cho những ai nghe và giữ lời Thiên Chúa. – Alleluia.",
     },
-    "gospel": {
-      "excerpt": "Lc 7, 11-17",
-      "info": "“Hỡi thanh niên, Ta truyền cho ngươi hãy chỗi dậy”.",
-      "title": "Tin Mừng Chúa Giêsu Kitô theo Thánh Luca.",
-      "content": "Khi ấy, Chúa Giêsu đến một thành gọi là Naim. Các môn đệ và đám đông dân chúng cùng đi với Người. Khi Người đến gần cửa thành, thì gặp người ta đang khiêng đi chôn người con trai duy nhất của một bà goá kia, và có đám đông dân thành đi đưa xác với mẹ nó. Trông thấy bà, Chúa động lòng thương và bảo bà rằng: “Ðừng khóc nữa”. Ðoạn tiến lại gần, Người chạm đến quan tài và những người khiêng đứng lại. Bấy giờ Người phán: “Hỡi thanh niên, Ta truyền cho ngươi hãy chỗi dậy”. Người chết liền ngồi lên và bắt đầu nói. Rồi Người trao lại cho mẹ nó. Mọi người đều sợ hãi và ngợi khen Thiên Chúa rằng: “Một tiên tri cao cả đã xuất hiện giữa chúng ta, và Thiên Chúa đã thăm viếng dân Người”. Và việc này đã loan truyền danh tiếng Người trong toàn cõi Giuđêa và khắp vùng lân cận.",
-      "end": "Ðó là lời Chúa"
-    }
-  },
+    gospel: {
+      excerpt: "Lc 11, 27-28",
+      info: "“Phúc cho dạ đã cưu mang Thầy”.",
+      title: "Tin Mừng Chúa Giêsu Kitô theo Thánh Luca.",
+      content:
+        "Khi ấy, Chúa Giêsu đang giảng cho dân chúng, thì từ giữa đám dân chúng, có một phụ nữ cất tiếng nói rằng: “Phúc cho dạ đã cưu mang Thầy và vú đã cho Thầy bú”. Nhưng Người phán rằng: “Những ai nghe và giữ lời Thiên Chúa thì có phúc hơn”.",
+      end: "Ðó là lời Chúa",
+    },
   "82306": {
     "firstReading": {
       "excerpt": "Gr 1, 4-10",
