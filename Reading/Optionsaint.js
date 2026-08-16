@@ -565,7 +565,7 @@ window.OptionsaintReadings = {
         "Khi ấy, Chúa Giêsu đang giảng cho dân chúng, thì từ giữa đám dân chúng, có một phụ nữ cất tiếng nói rằng: “Phúc cho dạ đã cưu mang Thầy và vú đã cho Thầy bú”. Nhưng Người phán rằng: “Những ai nghe và giữ lời Thiên Chúa thì có phúc hơn”.",
       end: "Ðó là lời Chúa",
     },
-     },
+}, 
   "82306": {
     "firstReading": {
       "excerpt": "Gr 1, 4-10",
